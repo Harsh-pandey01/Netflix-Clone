@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function HomeShimmer() {
   return (
     <div className="w-screen h-screen p-5 bg-black">
